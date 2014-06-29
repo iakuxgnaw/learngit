@@ -7,3 +7,5 @@ Creating a new branch is quick.
 Push content to github!!
 
 Creating a new branch is quick and simple.
+
+line2
